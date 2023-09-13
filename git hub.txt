@@ -1,0 +1,25 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hsumon007/homeproject2.git
+git push -u origin main
+
+
+
+
+for download
+
+git clone https://github.com/hsumon007/homeproject2.git
+
+
+
+update file add
+
+git add .
+git commit -m "first commit"
+git push -u origin main
+
+
+update file download
+git pull
